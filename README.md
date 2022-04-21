@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayo-dev
 - 👀 I’m interested in creating amazing experiences on the web. I work with React js, Typescript and Next js on the client side.
-- 🌱 I’m currently learning Node js and MongoDB
+- 🌱 I’m currently learning to be a 10x developer 😅
 - 💞️ I’m in search of my first frontend role
 - 📫 reach me via email @ talabiayomide2000@gmail.com
 
