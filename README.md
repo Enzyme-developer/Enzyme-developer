@@ -12,8 +12,6 @@
 ![image](https://user-images.githubusercontent.com/77396308/167125634-bbb87cdd-a081-40d1-b7a6-3cc9acfec50d.png)
 ![image](https://user-images.githubusercontent.com/77396308/167125652-6c0efeac-fb56-417f-aefd-210cb5ef20aa.png)
 ![image](https://user-images.githubusercontent.com/77396308/167125667-c3db8503-3ce4-4af5-a4ab-d7c8632e1d82.png)
-![image](https://user-images.githubusercontent.com/77396308/167125689-ab2b249a-fc55-4b4f-b567-00ce9b39ccc0.png)
-
 <!---
 Enzyme-developer/Enzyme-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
