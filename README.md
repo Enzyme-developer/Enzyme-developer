@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Ayo-dev, I'm a Frontend web developer/UI Engineer focused on creating seamless experiences and interactions on the web by tranforming designs and ideas, "pixel perfectly", to code.I translate needs into functional and appealing interactive applications.
 - 👀 I’m interested in creating amazing experiences on the web & Striking a balance between functionality and aesthetic design. I work with React js, Typescript and Next js on the client side.
--🔧 I'm not the best Developer around, FAR from it.
+- 🌱 I’m currently learning to be a 10x developer 😅 and on the road to Fullstack.
+- 💞️ I’m in search of my first frontend role
+- 📫You can reach me via email @ talabiayomide2000@gmail.com
+- 🔧 I'm not the best Developer around, FAR from it.
 But what I am is:
 *Persistent in my pursuit of knowledge
 *Willing to find the answers to questions
 *Consistent on my actions
 *Insistent on becoming a little bit better everyday
 I'm not the best, but I'm better than I was yesterday.
-- 🌱 I’m currently learning to be a 10x developer 😅 and on the road to Fullstack.
-- 💞️ I’m in search of my first frontend role
-- 📫You can reach me via email @ talabiayomide2000@gmail.com
 
 
 ![image](https://user-images.githubusercontent.com/77396308/167125277-1d99df93-5563-431a-b1cf-8d8fc77f1d83.png)
