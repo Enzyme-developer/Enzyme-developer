@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [ayoo-dev.netlify.app](ayoo-dev.netlify.app)
 
-- 📝 I regularly write articles on [dev.to/enzymedeveloper](dev.to/enzymedeveloper)
+- 📝 I regularly write articles on [dev.to/ayo_dev](dev.to/ayo_dev)
 
 - 💬 Ask me about **anything & everything frontend**
 
