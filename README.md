@@ -9,9 +9,8 @@ I'm a Frontend web developer/UI Engineer focused on creating seamless experience
 * 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [My portfolio](http://ayoo-dev.netlify.app)
 * ✉️  You can contact me at [talabiayomide2000@gmail.com](mailto:talabiayomide2000@gmail.com)
-* 🧠  I'm learning Blockchain Engineering and Backend Development
-* 🤝  I'm open to collaborating on Interesting projects
-
+* 🧠  I'm currently learning Blockchain Development 
+* 🤝  I'm open to collaboration, ideas and gigs.
 ### Skills
 
 <p align="left">
