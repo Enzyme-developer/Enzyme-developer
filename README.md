@@ -1,10 +1,10 @@
 Hi 👋 I'm Ayomide
 ========================
 
-Frontend Engineer, Blockchain Developer and Technical writer
+Frontend Engineer, Blockchain Devrloper and Technical writer.
 ------------------------------------------------------------
 
-I'm a Frontend Engineer focused on creating seamless experiences and interactions on the web by tranforming designs and ideas, "pixel perfectly", to code.I translate needs into functional and appealing interactive applications.I Gather and refine specifications and requirements based on technical requirements or UX design. I often write technical articles.
+I'm a Passionate Frontend Engineer focused on creating seamless experiences and interactions on the web by tranforming designs and ideas, "pixel perfectly", to code.I translate needs into functional and appealing interactive applications.I Gather and refine specifications and requirements based on technical requirements or UX design. I often write technical articles.
 
 * 🌍  I'm currently based in Lagos
 * 🖥️  See my portfolio at [Ayo-dev](http://ayoo-dev.netlify.app)
@@ -58,6 +58,6 @@ I'm a Frontend Engineer focused on creating seamless experiences and interaction
 
 <div width="100%" align="center"><a href="https://github.com/Enzyme-developer/Moovie" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzyme-developer&repo=Moovie&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Enzyme-developer/Realtor" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzyme-developer&repo=Realtor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Enzyme-developer/google-repo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzyme-developer&repo=google-repo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Enzyme-developer/Fitness" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Enzyme-developer&repo=Fitness&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
