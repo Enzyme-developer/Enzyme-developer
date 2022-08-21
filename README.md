@@ -1,13 +1,13 @@
 Hi 👋 I'm Ayomide
 ========================
 
-Frontend Engineer, Blockchain Devrloper and Technical writer.
+Frontend Engineer, Backend Developer and Technical writer.
 ------------------------------------------------------------
 
 I'm a Passionate Frontend Engineer focused on creating seamless experiences and interactions on the web by tranforming designs and ideas, "pixel perfectly", to code.I translate needs into functional and appealing interactive applications.I Gather and refine specifications and requirements based on technical requirements or UX design. I often write technical articles.
 
-* 🌍  I'm currently based in Lagos
-* 🖥️  See my portfolio at [Ayo-dev](http://ayoo-dev.netlify.app)
+* 🌍  currently based in Lagos
+* 🖥️  View my portfolio at [Ayo-dev](http://ayoo-dev.netlify.app)
 * ✉️  You can contact me at [talabiayomide2000@gmail.com](mailto:talabiayomide2000@gmail.com)
 * 🧠  I'm currently learning Backend Development 
 * 🤝  I'm open to collaboration, ideas and gigs.
