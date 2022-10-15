@@ -4,7 +4,7 @@ Hi 👋 I'm Ayomide
 Fullstack Developer and Technical writer.
 ------------------------------------------------------------
 
-I'm a Passionate Frontend Engineer focused on creating seamless experiences and interactions on the web by tranforming designs and ideas, "pixel perfectly", to code.I translate needs into functional and appealing interactive applications.I Gather and refine specifications and requirements based on technical requirements or UX design. I often write technical articles.
+I'm a Passionate Engineer focused on creating seamless experiences and interactions on the web by tranforming designs and ideas, "pixel perfectly", to code.I translate needs into functional and appealing interactive applications.I Gather and refine specifications and requirements based on technical requirements or UX design. I often write technical articles.
 
 * 🌍  currently based in Lagos
 * 🖥️  View my portfolio at [Ayo-dev](http://ayoo-dev.netlify.app)
