@@ -1,15 +1,15 @@
 Hi 👋 I'm Ayo
 ========================
 
-Fullstack Developer and Technical writer.
+Fronted Engineer and Ghost Technical Writer.
 ------------------------------------------------------------
 
-I'm surfing the world of software engineering, one step at a time. I love the process of discovery, and I love the thrill of solving problems. I'm also excited about the possibility of creating solutions. I constantly seeks out innovative solutions to everyday problems.
+I'm surfing the world of software engineering, one step at a time. I love the process of discovery, and I love the thrill of solving problems. I'm also excited about the possibility of creating solutions. I constantly  out innovative solutions to everyday problems.
 
 * 🌍  currently based in Lagos
 * 🖥️  View my portfolio at [Ayo-dev](http://ayoo-dev.netlify.app)
 * ✉️  You can contact me at [talabiayomide2000@gmail.com](mailto:talabiayomide2000@gmail.com)
-* 🧠  I'm currently learning Backend Development 
+* 🧠  I'm currently learning Systems design & Frontend Architecture. 
 * 🤝  I'm open to collaboration, ideas and gigs.
 ### Skills
 
